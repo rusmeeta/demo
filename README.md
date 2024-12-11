@@ -1,4 +1,4 @@
 # demo
 My first Git Repository.
 </br>
-Author - Rusmeeta Chaulagain
+Author - (Rusmeeta Chaulagain)
